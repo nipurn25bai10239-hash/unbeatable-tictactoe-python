@@ -1,1 +1,6 @@
+# Minimalist Tic-Tac-Toe AI
+# Developed for CSA2001 BYOP
 
+# No external pip dependencies required.
+# This project relies strictly on Python's Standard Library (e.g., 'math')
+# to ensure zero-friction, cross-platform CLI executability.
