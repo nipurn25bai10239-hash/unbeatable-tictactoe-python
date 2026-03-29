@@ -18,4 +18,4 @@ This project is built using standard Python libraries to maintain a lightweight 
 
 Please follow these exact steps to run the project from your terminal.
 
-https://github.com/nipurn25bai10239-hash/unbeatable-tictactoe-python/edit/main/README.md
+https://github.com/nipurn25bai10239-hash/unbeatable-tictactoe-python
